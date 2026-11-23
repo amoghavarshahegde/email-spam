@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+
+# Project models and artifacts
+*.pkl
+distilbert_spam/
+
+# Checkpoints
+.ipynb_checkpoints/

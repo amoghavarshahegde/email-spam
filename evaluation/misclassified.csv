@@ -1,0 +1,38 @@
+model,error_type,true_label,pred_label,text
+LinearSVC,FALSE_POSITIVE (ham->spam),0,1,"Send ur birthdate with month and year, I will tel u ur LIFE PARTNER'S name. and the method of calculation. Reply must."
+LinearSVC,FALSE_POSITIVE (ham->spam),0,1,I liked the new mobile
+LinearSVC,FALSE_POSITIVE (ham->spam),0,1,From tomorrow onwards eve 6 to 3 work.
+LinearSVC,FALSE_POSITIVE (ham->spam),0,1,Yep then is fine 7.30 or 8.30 for ice age.
+LinearSVC,false_negative (spam→ham),1,0,"Latest News! Police station toilet stolen, cops have nothing to go on!"
+LinearSVC,false_negative (spam→ham),1,0,Bought one ringtone and now getting texts costing 3 pound offering more tones etc
+LinearSVC,false_negative (spam→ham),1,0,Would you like to see my XXX pics they are so hot they were nearly banned in the uk!
+LinearSVC,false_negative (spam→ham),1,0,Check Out Choose Your Babe Videos @ sms.shsex.netUN fgkslpoPW fgkslpo
+LinearSVC,false_negative (spam→ham),1,0,"Hello darling how are you today? I would love to have a chat, why dont you tell me what you look like and what you are in to sexy?"
+LinearSVC,false_negative (spam→ham),1,0,"Oh my god! I've found your number again! I'm so glad, text me back xafter this msgs cst std ntwk chg Â£1.50"
+LinearSVC,false_negative (spam→ham),1,0,TBS/PERSOLVO. been chasing us since Sept forÂ£38 definitely not paying now thanks to your information. We will ignore them. Kath. Manchester.
+LinearSVC,false_negative (spam→ham),1,0,Burger King - Wanna play footy at a top stadium? Get 2 Burger King before 1st Sept and go Large or Super with Coca-Cola and walk out a winner
+LogisticRegression,FALSE_POSITIVE (ham->spam),0,1,"Send ur birthdate with month and year, I will tel u ur LIFE PARTNER'S name. and the method of calculation. Reply must."
+LogisticRegression,FALSE_POSITIVE (ham->spam),0,1,I liked the new mobile
+LogisticRegression,FALSE_POSITIVE (ham->spam),0,1,"Plz note: if anyone calling from a mobile Co. &amp; asks u to type # &lt;#&gt;  or # &lt;#&gt; . Do not do so. Disconnect the call,coz it iz an attempt of 'terrorist' to make use of the sim card no. Itz confirmd by nokia n motorola n has been verified by CNN IBN."
+LogisticRegression,FALSE_POSITIVE (ham->spam),0,1,From tomorrow onwards eve 6 to 3 work.
+LogisticRegression,FALSE_POSITIVE (ham->spam),0,1,Yep then is fine 7.30 or 8.30 for ice age.
+LogisticRegression,false_negative (spam→ham),1,0,"Latest News! Police station toilet stolen, cops have nothing to go on!"
+LogisticRegression,false_negative (spam→ham),1,0,Bought one ringtone and now getting texts costing 3 pound offering more tones etc
+LogisticRegression,false_negative (spam→ham),1,0,Would you like to see my XXX pics they are so hot they were nearly banned in the uk!
+LogisticRegression,false_negative (spam→ham),1,0,Check Out Choose Your Babe Videos @ sms.shsex.netUN fgkslpoPW fgkslpo
+LogisticRegression,false_negative (spam→ham),1,0,"Hello darling how are you today? I would love to have a chat, why dont you tell me what you look like and what you are in to sexy?"
+LogisticRegression,false_negative (spam→ham),1,0,"Oh my god! I've found your number again! I'm so glad, text me back xafter this msgs cst std ntwk chg Â£1.50"
+LogisticRegression,false_negative (spam→ham),1,0,TBS/PERSOLVO. been chasing us since Sept forÂ£38 definitely not paying now thanks to your information. We will ignore them. Kath. Manchester.
+LogisticRegression,false_negative (spam→ham),1,0,Burger King - Wanna play footy at a top stadium? Get 2 Burger King before 1st Sept and go Large or Super with Coca-Cola and walk out a winner
+NaiveBayes,FALSE_POSITIVE (ham->spam),0,1,Nokia phone is lovly..
+NaiveBayes,false_negative (spam→ham),1,0,"Latest News! Police station toilet stolen, cops have nothing to go on!"
+NaiveBayes,false_negative (spam→ham),1,0,"Xmas & New Years Eve tickets are now on sale from the club, during the day from 10am till 8pm, and on Thurs, Fri & Sat night this week. They're selling fast!"
+NaiveBayes,false_negative (spam→ham),1,0,Would you like to see my XXX pics they are so hot they were nearly banned in the uk!
+NaiveBayes,false_negative (spam→ham),1,0,"SMS. ac JSco: Energy is high, but u may not know where 2channel it. 2day ur leadership skills r strong. Psychic? Reply ANS w/question. End? Reply END JSCO"
+NaiveBayes,false_negative (spam→ham),1,0,Loans for any purpose even if you have Bad Credit! Tenants Welcome. Call NoWorriesLoans.com on 08717111821
+NaiveBayes,false_negative (spam→ham),1,0,Check Out Choose Your Babe Videos @ sms.shsex.netUN fgkslpoPW fgkslpo
+NaiveBayes,false_negative (spam→ham),1,0,"Hello darling how are you today? I would love to have a chat, why dont you tell me what you look like and what you are in to sexy?"
+NaiveBayes,false_negative (spam→ham),1,0,"Oh my god! I've found your number again! I'm so glad, text me back xafter this msgs cst std ntwk chg Â£1.50"
+NaiveBayes,false_negative (spam→ham),1,0,Cashbin.co.uk (Get lots of cash this weekend!) www.cashbin.co.uk Dear Welcome to the weekend We have got our biggest and best EVER cash give away!! These..
+NaiveBayes,false_negative (spam→ham),1,0,TBS/PERSOLVO. been chasing us since Sept forÂ£38 definitely not paying now thanks to your information. We will ignore them. Kath. Manchester.
+NaiveBayes,false_negative (spam→ham),1,0,Burger King - Wanna play footy at a top stadium? Get 2 Burger King before 1st Sept and go Large or Super with Coca-Cola and walk out a winner
